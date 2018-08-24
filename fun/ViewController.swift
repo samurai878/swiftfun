@@ -4,7 +4,7 @@
 //
 //  Created by Sam Leswell on 24/08/2018.
 //  Copyright © 2018 Sam Leswell. All rights reserved.
-//
+// Hello I like cheese....
 
 import UIKit
 
@@ -35,7 +35,7 @@ var buttonCount = 0
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        // Do any additional setup after loading the view, typically from a nib..
         
        
         
